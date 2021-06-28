@@ -1,5 +1,4 @@
-#include<string.h>
-string ari (string s)
+char* ari (char* s)
 {
   int characters = 0;
   int words = 0;
