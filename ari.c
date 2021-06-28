@@ -1,5 +1,4 @@
-string
-ari (string s)
+string ari (string s)
 {
   int characters = 0;
   int words = 0;
