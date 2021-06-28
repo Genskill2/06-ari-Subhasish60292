@@ -1,3 +1,4 @@
+#include<string.h>
 string ari (string s)
 {
   int characters = 0;
